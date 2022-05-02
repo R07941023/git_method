@@ -1,11 +1,15 @@
+conflict-check pull diff-update
+git fetch origin master：取得遠端分支 master 的資料。
+git merge origin/master：合併本地分支 origin/master 的程式碼。
+git push origin master：將本地提交紀錄推至遠端分支 master。
+https://cythilya.github.io/2018/06/19/git-merge-branch-into-master/
 
-
-
-merge, rebase, fast-forward merge, non-fast-forword merge
-Git flow
+fast-forward merge, non-fast-forword merge, rebase, 併完後刪除?
 Initiate pull request
-
-Gitignore
-conflict
-
+Git flow
 PyBuilder Pyb --start-project
+
+Q:A分支與主分支合併後, 主分支留下與A相同的紀錄?
+Q:然後B分支再併進來主分支, 紀錄呢
+Q 若A與B是改相同檔案中的不同fn 怎麼半!
+Q 能夠規範那些文件不被覆蓋嗎?
