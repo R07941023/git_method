@@ -1,0 +1,7 @@
+build the repository
+> git config --global user.email X@example.com.tw
+> git config --global user.name XXX
+> git config --list
+> git init
+> git branch -M main
+> git commit -m "first commit"
