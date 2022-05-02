@@ -1,15 +1,11 @@
-Build the new branch
-> git branch develop
-> git checkout develop
 
 
-git brach feature/refator
-git checkout feature/refator
-Pyb --start-project
 
-Branch, merge, rebase, fast-forward merge, non-fast-forword merge
+merge, rebase, fast-forward merge, non-fast-forword merge
 Git flow
 Initiate pull request
 
 Gitignore
 conflict
+
+PyBuilder Pyb --start-project

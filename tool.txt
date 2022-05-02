@@ -1,1 +1,6 @@
-Git log --graph --oneline
+Log
+> git log --graph --oneline
+
+Build the new branch
+> git branch develop/new fn
+> git checkout develop/new fn
