@@ -1,3 +1,3 @@
-git remote add origin https://github.com/R07941023/Leetcode.git
+git remote add origin https://github.com/R07941023/git_method.git
 git branch -M main
-git push -f origin main
+git push -u origin main

@@ -6,3 +6,5 @@ build the repository
 > git add .
 > git commit -m "first commit"
 > git branch -M main
+> git remote add master https://github.com/R07941023/git_method.git
+> git push -u master main
